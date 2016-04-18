@@ -16,4 +16,4 @@ function mod(num, den) {
     return num % den == 0;
 }
 
-console.log(mod(num,den));
+console.log(mod(num, den));
